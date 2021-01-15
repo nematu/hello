@@ -1,0 +1,12 @@
+{
+  "name": "GreenRiverDev/328/hello",
+  "authors": [
+    {
+      "name": "nematu",
+      "email": "nayaz-akhundzada@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree": "dev-master"
+  }
+}
